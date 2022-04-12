@@ -1,2 +1,24 @@
-# npm-
-自定义的一个npm插件，来记录npm插件的开发与发布的流程。开箱即用，不需要引入，自动注册。后续会逐步扩展功能。
+# message
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
