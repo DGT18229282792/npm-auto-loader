@@ -1,8 +1,8 @@
 {
-  "name": "dgt-message",
+  "name": "test",
   "version": "0.1.0",
   "private": false,
-  "description": "一个简易的弹窗插件，用来讲述npm插件的开发与上传", 
+  "description": "一个简易的弹窗插件，用来讲述npm插件的开发与上传",
   "license": "MIT",
   "main": "lib/dgt-message.umd.min.js",
   "scripts": {
@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "dgt-message": "^0.1.0",
     "vue": "^2.6.14"
   },
   "devDependencies": {
